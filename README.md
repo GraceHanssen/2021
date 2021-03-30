@@ -12,4 +12,4 @@
 
 :pushpin: Larvik, Vestfold 3260 :norway:	
 
-:capital_abcd: Filipino (Tagalog), Norsk (Bokmål)
+:capital_abcd: Filipino (Tagalog), English, Norsk (Bokmål)
